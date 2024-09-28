@@ -22,6 +22,12 @@ This project is an Event website with basic functionalities. The database was cr
 - multer
 - multer-storage-cloudinary
 
+## API URL
+
+https://whats-going-on-backend.vercel.app/api/v1
+
+depending on what you want to request you add /users or /events
+
 ## Website URL
 
 Two seeds were injected into the database, 10 events and 10 users. These can be injected back into the database using the following commands:
