@@ -16,8 +16,8 @@ cloudinary.config({
 })
 
 app.use(cors())
-app.use('/api/v1/users', usersRouter)
-app.use('/api/v1/events', eventsRouter)
+app.use('/users', usersRouter)
+app.use('/events', eventsRouter)
 
 app.use('*', (req, res, next) => {
   return res.status(404).json('route not found')

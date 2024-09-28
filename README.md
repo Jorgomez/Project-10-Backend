@@ -24,12 +24,13 @@ This project is an Event website with basic functionalities. The database was cr
 
 ## API URL
 
-https://whats-going-on-backend.vercel.app/api/v1
+https://whats-going-on-backend.vercel.app/
 
 depending on what you want to request you add /users or /events
 
 ## Website URL
 
+https://www.deepl.com/en/translator
 Two seeds were injected into the database, 10 events and 10 users. These can be injected back into the database using the following commands:
 
 npm run "seedEvents" for events
