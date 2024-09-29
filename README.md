@@ -30,7 +30,9 @@ depending on what you want to request you add /users or /events
 
 ## Website URL
 
-https://www.deepl.com/en/translator
+netlify:https://whatsgoingonp10.netlify.app
+vercel:https://what-s-going-on.vercel.app/
+
 Two seeds were injected into the database, 10 events and 10 users. These can be injected back into the database using the following commands:
 
 npm run "seedEvents" for events
