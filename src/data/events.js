@@ -14,7 +14,7 @@ const eventsData = [
     location: 'Los Angeles, CA',
     description: 'A music festival featuring top artists.',
     poster:
-      'https://res.cloudinary.com/digcf0lad/image/upload/v1727112090/unsplash_U7HLzMO4SIY_gg7kch.png',
+      'https://res.cloudinary.com/digcf0lad/image/upload/v1728429951/project10/New%20Photos/unsplash_U7HLzMO4SIY_zarobg.webp',
     creator: '66e0cf9a17db57a044a63c25'
   },
   {
@@ -23,7 +23,7 @@ const eventsData = [
     location: 'San Francisco, CA',
     description: 'An exhibition of modern art.',
     poster:
-      'https://res.cloudinary.com/digcf0lad/image/upload/v1727112090/unsplash_fIHozNWfcvs_rbwk0q.png',
+      'https://res.cloudinary.com/digcf0lad/image/upload/v1728429876/project10/New%20Photos/unsplash_fIHozNWfcvs_mwkuiv.webp',
     creator: '66e0cf9a17db57a044a63c25'
   },
   {
@@ -59,7 +59,7 @@ const eventsData = [
     location: 'San Diego, CA',
     description: 'The biggest comic convention in the world.',
     poster:
-      'https://res.cloudinary.com/digcf0lad/image/upload/v1727112090/unsplash_fIHozNWfcvs_rbwk0q.png',
+      'https://res.cloudinary.com/digcf0lad/image/upload/v1728429876/project10/New%20Photos/unsplash_fIHozNWfcvs_mwkuiv.webp',
     creator: '66e0cf9a17db57a044a63c25'
   },
   {
@@ -68,7 +68,7 @@ const eventsData = [
     location: 'Boston, MA',
     description: 'A marathon to raise funds for charity.',
     poster:
-      'https://res.cloudinary.com/digcf0lad/image/upload/v1727112091/unsplash_nwLTVwb7DbU_rqy8yp.png',
+      'https://res.cloudinary.com/digcf0lad/image/upload/v1728429778/project10/New%20Photos/unsplash_nwLTVwb7DbU_j9cczs.webp',
     creator: '66e0cf9a17db57a044a63c25'
   },
   {
@@ -86,7 +86,7 @@ const eventsData = [
     location: 'Cannes, France',
     description: 'A prestigious international film festival.',
     poster:
-      'https://res.cloudinary.com/digcf0lad/image/upload/v1727112091/unsplash_nwLTVwb7DbU_rqy8yp.png',
+      'https://res.cloudinary.com/digcf0lad/image/upload/v1728429778/project10/New%20Photos/unsplash_nwLTVwb7DbU_j9cczs.webp',
     creator: '66e0cf9a17db57a044a63c25'
   },
   {
